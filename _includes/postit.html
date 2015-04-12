@@ -8,7 +8,7 @@
                         <h2 class="post-title">{{ post.title }}</h2>
                         <h3 class="post-subtitle">{{ post.catchline }}</h3>
                     </a>
-                    <p class="post-meta">Posted by {{ post.author }} {{ post.date | date: "%-d %B %Y"}}</p>
+                    <p class="post-meta">Posted by {{ post.author }}, {{ post.date | date: "%-d %B %Y"}}</p>
                 </div>
                 <hr>
                 {% endfor %}
