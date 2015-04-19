@@ -7,24 +7,16 @@ published: true
 category: technology 
 ---
 
-A First Level Header
-====================
+Let's give this another go...
 
-A Second Level Header
----------------------
+No Wordpress, no Linux. This version makes use of Github pages - no admin to worry about, w00t.
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+Lots of awesome new tech I've been meaning to play with:
 
-The quick brown fox jumped over the lazy
-dog's back.
+Jekyll
+Bootstrap
+More Git
+Ruby (testing Octopress for automation)
 
-### Header 3
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
-
+More tech, more tech. After spending many, many years directing, and now consulting on, tech projects, 
+I thought it's about time I directed some of this enthusiasm to personal projects. 
